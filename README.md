@@ -65,10 +65,8 @@ I focus on Data Science, Machine Learning, and Bioinformatics. I'm passionate ab
 
 | Category | Project Name | Description |
 | :--- | :--- | :--- |
-| **Bioinformatics** | Breast Cancer Multi-omics Classification | Analysis and classification using Methylation, RNA-seq, and clinical data from TCGA. Implemented feature selection (ANOVA, mRMR) and various ML models. |
-| **Software Eng** | [Tire-Shop-Management](https://github.com/SHAYAN-NAMI/Tire-Shop-Management) | A comprehensive shop management system built with Python and SQL Server. |
-| **Machine Learning** | Credit Card Fraud Detection | An upcoming project exploring unique architectural approaches for fraud detection compared to existing public models. |
-
+| **Bioinformatics** | [Breast-Cancer-MultiOmics](https://github.com/Shayan-Nami/Breast-Cancer-MultiOmics) | Multi-omics machine learning pipeline for breast cancer subtype classification using TCGA BRCA data, integrating miRNA, methylation, and clinical features with dimensionality reduction. |
+| **Software Eng** | [Tire-Shop-Management](https://github.com/Shayan-Nami/Tire-Shop-Management) | A comprehensive Database Management System (DBMS) for a Tire Shop, featuring full CRUD operations, inventory tracking, financial reporting, and a normalized SQL Server schema. |
 ---
 
 ### Github Stats 🐍
@@ -80,4 +78,5 @@ I focus on Data Science, Machine Learning, and Bioinformatics. I'm passionate ab
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SHAYAN-NAMI/SHAYAN-NAMI/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 
