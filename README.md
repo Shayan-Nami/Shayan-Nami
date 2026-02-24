@@ -26,6 +26,7 @@ I focus on Data Science, Machine Learning, and Bioinformatics. I'm passionate ab
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
@@ -79,3 +80,4 @@ I focus on Data Science, Machine Learning, and Bioinformatics. I'm passionate ab
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SHAYAN-NAMI/SHAYAN-NAMI/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
