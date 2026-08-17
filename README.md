@@ -92,15 +92,15 @@ I focus on Data Science, Machine Learning, and Bioinformatics. I'm passionate ab
 ### Github Stats 🐍
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAYAN-NAMI/SHAYAN-NAMI/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAYAN-NAMI/SHAYAN-NAMI/output/github-contribution-grid-snake.svg">
 
-    <div align="center">
 <sub>Crafted with ☕ by <a href="https://github.com/Shayan-Nami">Shayan Nami</a></sub>
-</div>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SHAYAN-NAMI/SHAYAN-NAMI/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shayan-Nami/Shayan-Nami/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shayan-Nami/Shayan-Nami/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shayan-Nami/Shayan-Nami/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 
