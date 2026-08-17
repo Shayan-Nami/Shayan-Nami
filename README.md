@@ -68,7 +68,18 @@ I focus on Data Science, Machine Learning, and Bioinformatics. I'm passionate ab
 | **Bioinformatics** | [Breast-Cancer-MultiOmics](https://github.com/Shayan-Nami/Breast-Cancer-MultiOmics) | Multi-omics machine learning pipeline for breast cancer subtype classification using TCGA BRCA data, integrating miRNA, methylation, and clinical features with dimensionality reduction. |
 | **Software Eng** | [Tire-Shop-Management](https://github.com/Shayan-Nami/Tire-Shop-Management) | A comprehensive Database Management System (DBMS) for a Tire Shop, featuring full CRUD operations, inventory tracking, financial reporting, and a normalized SQL Server schema. |
 ---
+### Terminal 🖥️
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=shayan%40github+~+%24+.%2Fcontributions.sh)](https://git.io/typing-svg)
+
+![contributions](https://github-readme-insight-terminal-asci.vercel.app/svg?user=Shayan-Nami&theme=mac)
+
+</div
+
+
+---
 ### Github Stats 🐍
 
 <div align="center">
