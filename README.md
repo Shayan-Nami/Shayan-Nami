@@ -1,3 +1,5 @@
+<!-- Designed & built by Shayan-Nami — https://github.com/Shayan-Nami -->
+<!-- If you're copying this, at least change the colors 😑😑 -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Shayan+Nami+👋;Data+Science+and+ML+Researcher;Exploring+Bioinformatics;Python+Developer)](https://git.io/typing-svg)
@@ -68,6 +70,13 @@ I focus on Data Science, Machine Learning, and Bioinformatics. I'm passionate ab
 | **Bioinformatics** | [Breast-Cancer-MultiOmics](https://github.com/Shayan-Nami/Breast-Cancer-MultiOmics) | Multi-omics machine learning pipeline for breast cancer subtype classification using TCGA BRCA data, integrating miRNA, methylation, and clinical features with dimensionality reduction. |
 | **Software Eng** | [Tire-Shop-Management](https://github.com/Shayan-Nami/Tire-Shop-Management) | A comprehensive Database Management System (DBMS) for a Tire Shop, featuring full CRUD operations, inventory tracking, financial reporting, and a normalized SQL Server schema. |
 ---
+<div align="center">
+
+![identity](https://raw.githubusercontent.com/Shayan-Nami/Shayan-Nami/main/identity.svg)
+
+</div>
+
+---
 ### Terminal 🖥️
 
 <div align="center">
@@ -86,6 +95,10 @@ I focus on Data Science, Machine Learning, and Bioinformatics. I'm passionate ab
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAYAN-NAMI/SHAYAN-NAMI/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAYAN-NAMI/SHAYAN-NAMI/output/github-contribution-grid-snake.svg">
+
+    <div align="center">
+<sub>Crafted with ☕ by <a href="https://github.com/Shayan-Nami">Shayan Nami</a></sub>
+</div>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SHAYAN-NAMI/SHAYAN-NAMI/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
