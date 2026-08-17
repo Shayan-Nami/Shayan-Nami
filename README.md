@@ -74,9 +74,9 @@ I focus on Data Science, Machine Learning, and Bioinformatics. I'm passionate ab
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=shayan%40github+~+%24+.%2Fcontributions.sh)](https://git.io/typing-svg)
 
-![contributions](https://github-readme-insight-terminal-asci.vercel.app/svg?user=Shayan-Nami&theme=mac)
+![contributions](https://raw.githubusercontent.com/Shayan-Nami/Shayan-Nami/main/contributions.svg)
 
-</div
+</div>
 
 
 ---
