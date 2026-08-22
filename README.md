@@ -68,6 +68,8 @@ I focus on Data Science, Machine Learning, and Bioinformatics. I'm passionate ab
 | Category | Project Name | Description |
 | :--- | :--- | :--- |
 | **Bioinformatics** | [Breast-Cancer-MultiOmics](https://github.com/Shayan-Nami/Breast-Cancer-MultiOmics) | Multi-omics machine learning pipeline for breast cancer subtype classification using TCGA BRCA data, integrating miRNA, methylation, and clinical features with dimensionality reduction. |
+| **Bioinformatics** | [TCGA-BRCA-miRNA-Clinical-Metastasis-Prediction](https://github.com/Shayan-Nami/TCGA-BRCA-miRNA-Clinical-Metastasis-Prediction) | Machine learning pipeline predicting metastasis in breast cancer patients using TCGA-BRCA miRNA expression and clinical data. |
+| **Machine Learning** | [Iris-Classification-Analysis](https://github.com/Shayan-Nami/Iris-Classification-Analysis) | Classification analysis on the classic Iris dataset, covering data exploration, preprocessing, model training, and evaluation. |
 | **Software Eng** | [Tire-Shop-Management](https://github.com/Shayan-Nami/Tire-Shop-Management) | A comprehensive Database Management System (DBMS) for a Tire Shop, featuring full CRUD operations, inventory tracking, financial reporting, and a normalized SQL Server schema. |
 ---
 <div align="center">
